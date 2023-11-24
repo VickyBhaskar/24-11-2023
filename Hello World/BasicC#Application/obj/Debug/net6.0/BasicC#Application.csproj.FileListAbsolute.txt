@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\bin\Debug\net6.0\BasicC#Application.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\bin\Debug\net6.0\BasicC#Application.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\bin\Debug\net6.0\BasicC#Application.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\bin\Debug\net6.0\BasicC#Application.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\bin\Debug\net6.0\BasicC#Application.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\obj\Debug\net6.0\BasicC#Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\obj\Debug\net6.0\BasicC#Application.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\obj\Debug\net6.0\BasicC#Application.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\obj\Debug\net6.0\BasicC#Application.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\obj\Debug\net6.0\BasicC#Application.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\obj\Debug\net6.0\refint\BasicC#Application.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\obj\Debug\net6.0\BasicC#Application.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\obj\Debug\net6.0\BasicC#Application.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicC#Application\BasicC#Application\obj\Debug\net6.0\ref\BasicC#Application.dll

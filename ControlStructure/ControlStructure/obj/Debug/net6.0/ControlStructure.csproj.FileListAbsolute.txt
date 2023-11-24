@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\bin\Debug\net6.0\ControlStructure.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\bin\Debug\net6.0\ControlStructure.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\bin\Debug\net6.0\ControlStructure.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\bin\Debug\net6.0\ControlStructure.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\bin\Debug\net6.0\ControlStructure.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\obj\Debug\net6.0\ControlStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\obj\Debug\net6.0\ControlStructure.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\obj\Debug\net6.0\ControlStructure.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\obj\Debug\net6.0\ControlStructure.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\obj\Debug\net6.0\ControlStructure.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\obj\Debug\net6.0\refint\ControlStructure.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\obj\Debug\net6.0\ControlStructure.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\obj\Debug\net6.0\ControlStructure.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\ControlStructure\ControlStructure\obj\Debug\net6.0\ref\ControlStructure.dll

@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\bin\Debug\net6.0\VariableAndUSerInput.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\bin\Debug\net6.0\VariableAndUSerInput.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\bin\Debug\net6.0\VariableAndUSerInput.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\bin\Debug\net6.0\VariableAndUSerInput.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\bin\Debug\net6.0\VariableAndUSerInput.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\obj\Debug\net6.0\VariableAndUSerInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\obj\Debug\net6.0\VariableAndUSerInput.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\obj\Debug\net6.0\VariableAndUSerInput.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\obj\Debug\net6.0\VariableAndUSerInput.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\obj\Debug\net6.0\VariableAndUSerInput.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\obj\Debug\net6.0\refint\VariableAndUSerInput.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\obj\Debug\net6.0\VariableAndUSerInput.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\obj\Debug\net6.0\VariableAndUSerInput.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\VariableAndUSerInput\VariableAndUSerInput\obj\Debug\net6.0\ref\VariableAndUSerInput.dll

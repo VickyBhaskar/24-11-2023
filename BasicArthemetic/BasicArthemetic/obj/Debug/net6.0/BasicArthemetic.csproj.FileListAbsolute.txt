@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\bin\Debug\net6.0\BasicArthemetic.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\bin\Debug\net6.0\BasicArthemetic.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\bin\Debug\net6.0\BasicArthemetic.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\bin\Debug\net6.0\BasicArthemetic.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\bin\Debug\net6.0\BasicArthemetic.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\obj\Debug\net6.0\BasicArthemetic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\obj\Debug\net6.0\BasicArthemetic.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\obj\Debug\net6.0\BasicArthemetic.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\obj\Debug\net6.0\BasicArthemetic.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\obj\Debug\net6.0\BasicArthemetic.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\obj\Debug\net6.0\refint\BasicArthemetic.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\obj\Debug\net6.0\BasicArthemetic.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\obj\Debug\net6.0\BasicArthemetic.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\BasicArthemetic\BasicArthemetic\obj\Debug\net6.0\ref\BasicArthemetic.dll

@@ -1,0 +1,14 @@
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\bin\Debug\net6.0\Method.exe
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\bin\Debug\net6.0\Method.deps.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\bin\Debug\net6.0\Method.runtimeconfig.json
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\bin\Debug\net6.0\Method.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\bin\Debug\net6.0\Method.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\obj\Debug\net6.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\obj\Debug\net6.0\Method.AssemblyInfoInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\obj\Debug\net6.0\Method.AssemblyInfo.cs
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\obj\Debug\net6.0\Method.csproj.CoreCompileInputs.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\obj\Debug\net6.0\Method.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\obj\Debug\net6.0\refint\Method.dll
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\obj\Debug\net6.0\Method.pdb
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\obj\Debug\net6.0\Method.genruntimeconfig.cache
+C:\Users\vicky\OneDrive\Desktop\Mphasis\DotNet\24-11-2023\Method\Method\obj\Debug\net6.0\ref\Method.dll
